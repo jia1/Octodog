@@ -1,2 +1,4 @@
 print "I am the Octodog!"
-print “Octodog just create this line!”
+print "I am the Octodog!"
+print "hello"
+print "Octodog just create this line!"
